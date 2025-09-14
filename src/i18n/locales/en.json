@@ -1,0 +1,107 @@
+{
+  "common": {
+    "newChat": "New Chat",
+    "search": "Search conversations...",
+    "settings": "Settings",
+    "send": "Send message",
+    "typeMessage": "Type your message...",
+    "selectModel": "Select a model to start chatting...",
+    "aiThinking": "AI is thinking...",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "header": {
+    "title": "LMWebUI",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "checking": "Checking...",
+    "toggleSidebar": "Toggle sidebar",
+    "toggleTheme": "Switch to {{theme}} theme",
+    "openSettings": "Open settings"
+  },
+  "sidebar": {
+    "conversations": "Conversations",
+    "noConversations": "No conversations yet",
+    "deleteConversation": "Delete conversation",
+    "userProfile": "LMWebUI",
+    "userRole": "Local AI Assistant"
+  },
+  "welcome": {
+    "title": "LMWebUI",
+    "subtitle": "How can I help you today?",
+    "suggested": "Suggested",
+    "privacy": {
+      "title": "🔒 Your data stays private",
+      "description": "All conversations are stored locally on your device. No data is sent to external servers.",
+      "details": {
+        "localStorage": "Local storage only - no cloud sync",
+        "directConnection": "Direct connection to Ollama - no intermediaries",
+        "noTelemetry": "No telemetry or analytics collected"
+      }
+    },
+    "disclaimer": "LLMs can make mistakes. Verify important information."
+  },
+  "suggestedPrompts": {
+    "study": {
+      "title": "Help me study vocabulary for a college entrance exam",
+      "description": "Create flashcards and study plans"
+    },
+    "kidsArt": {
+      "title": "Give me ideas for what to do with my kids' art",
+      "description": "Creative display and storage solutions"
+    },
+    "procrastination": {
+      "title": "Overcome procrastination give me tips",
+      "description": "Practical strategies and techniques"
+    },
+    "funFact": {
+      "title": "Tell me a fun fact about the Roman Empire",
+      "description": "Interesting historical insights"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": "Appearance",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "fontSize": "Font Size",
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large",
+    "modelSettings": "Model Settings",
+    "defaultModel": "Default Model",
+    "temperature": "Temperature",
+    "maxTokens": "Max Tokens",
+    "moreFocused": "More focused",
+    "moreCreative": "More creative",
+    "shorterResponses": "Shorter responses",
+    "longerResponses": "Longer responses",
+    "privacy": {
+      "title": "🔒 Privacy & Security",
+      "description": "All settings and conversations are stored locally on your device. No data is transmitted to external servers."
+    }
+  },
+  "errors": {
+    "ollamaNotConnected": "Ollama Not Connected",
+    "ollamaNotConnectedDesc": "Please make sure Ollama is running on your local machine and try again.",
+    "noModelsAvailable": "No Models Available",
+    "noModelsAvailableDesc": "Please install some models in Ollama first. You can do this by running:",
+    "installModelCommand": "ollama pull llama2",
+    "refresh": "Refresh",
+    "retryConnection": "Retry Connection"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}

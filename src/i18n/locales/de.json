@@ -1,0 +1,107 @@
+{
+  "common": {
+    "newChat": "Neuer Chat",
+    "search": "Unterhaltungen suchen...",
+    "settings": "Einstellungen",
+    "send": "Nachricht senden",
+    "typeMessage": "Geben Sie Ihre Nachricht ein...",
+    "selectModel": "Wählen Sie ein Modell aus, um zu chatten...",
+    "aiThinking": "KI denkt nach...",
+    "retry": "Wiederholen",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "close": "Schließen",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg"
+  },
+  "header": {
+    "title": "LMWebUI",
+    "connected": "Verbunden",
+    "disconnected": "Getrennt",
+    "checking": "Überprüfung...",
+    "toggleSidebar": "Seitenleiste umschalten",
+    "toggleTheme": "Zu {{theme}} Thema wechseln",
+    "openSettings": "Einstellungen öffnen"
+  },
+  "sidebar": {
+    "conversations": "Unterhaltungen",
+    "noConversations": "Noch keine Unterhaltungen",
+    "deleteConversation": "Unterhaltung löschen",
+    "userProfile": "LMWebUI",
+    "userRole": "Lokaler KI-Assistent"
+  },
+  "welcome": {
+    "title": "LMWebUI",
+    "subtitle": "Wie kann ich Ihnen heute helfen?",
+    "suggested": "Vorgeschlagen",
+    "privacy": {
+      "title": "🔒 Ihre Daten bleiben privat",
+      "description": "Alle Unterhaltungen werden lokal auf Ihrem Gerät gespeichert. Keine Daten werden an externe Server gesendet.",
+      "details": {
+        "localStorage": "Nur lokale Speicherung - keine Cloud-Synchronisation",
+        "directConnection": "Direkte Verbindung zu Ollama - keine Zwischenhändler",
+        "noTelemetry": "Keine Telemetrie oder Analysen gesammelt"
+      }
+    },
+    "disclaimer": "LLMs können Fehler machen. Überprüfen Sie wichtige Informationen."
+  },
+  "suggestedPrompts": {
+    "study": {
+      "title": "Helfen Sie mir beim Vokabellernen für eine Universitätsaufnahmeprüfung",
+      "description": "Karteikarten und Lernpläne erstellen"
+    },
+    "kidsArt": {
+      "title": "Geben Sie mir Ideen, was ich mit der Kunst meiner Kinder machen soll",
+      "description": "Kreative Display- und Lagerlösungen"
+    },
+    "procrastination": {
+      "title": "Überwinden Sie Prokrastination geben Sie mir Tipps",
+      "description": "Praktische Strategien und Techniken"
+    },
+    "funFact": {
+      "title": "Erzählen Sie mir eine lustige Tatsache über das Römische Reich",
+      "description": "Interessante historische Einblicke"
+    }
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "appearance": "Erscheinungsbild",
+    "theme": "Thema",
+    "light": "Hell",
+    "dark": "Dunkel",
+    "fontSize": "Schriftgröße",
+    "small": "Klein",
+    "medium": "Mittel",
+    "large": "Groß",
+    "modelSettings": "Modell-Einstellungen",
+    "defaultModel": "Standard-Modell",
+    "temperature": "Temperatur",
+    "maxTokens": "Maximale Tokens",
+    "moreFocused": "Fokussierter",
+    "moreCreative": "Kreativer",
+    "shorterResponses": "Kürzere Antworten",
+    "longerResponses": "Längere Antworten",
+    "privacy": {
+      "title": "🔒 Datenschutz und Sicherheit",
+      "description": "Alle Einstellungen und Unterhaltungen werden lokal auf Ihrem Gerät gespeichert. Keine Daten werden an externe Server übertragen."
+    }
+  },
+  "errors": {
+    "ollamaNotConnected": "Ollama Nicht Verbunden",
+    "ollamaNotConnectedDesc": "Bitte stellen Sie sicher, dass Ollama auf Ihrem lokalen Computer läuft und versuchen Sie es erneut.",
+    "noModelsAvailable": "Keine Modelle Verfügbar",
+    "noModelsAvailableDesc": "Bitte installieren Sie zuerst einige Modelle in Ollama. Sie können dies durch Ausführen von:",
+    "installModelCommand": "ollama pull llama2",
+    "refresh": "Aktualisieren",
+    "retryConnection": "Verbindung Wiederholen"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}

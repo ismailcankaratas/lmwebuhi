@@ -1,0 +1,107 @@
+{
+  "common": {
+    "newChat": "Nouveau Chat",
+    "search": "Rechercher des conversations...",
+    "settings": "Paramètres",
+    "send": "Envoyer le message",
+    "typeMessage": "Tapez votre message...",
+    "selectModel": "Sélectionnez un modèle pour commencer à discuter...",
+    "aiThinking": "L'IA réfléchit...",
+    "retry": "Réessayer",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès"
+  },
+  "header": {
+    "title": "LMWebUI",
+    "connected": "Connecté",
+    "disconnected": "Déconnecté",
+    "checking": "Vérification...",
+    "toggleSidebar": "Basculer la barre latérale",
+    "toggleTheme": "Passer au thème {{theme}}",
+    "openSettings": "Ouvrir les paramètres"
+  },
+  "sidebar": {
+    "conversations": "Conversations",
+    "noConversations": "Aucune conversation pour le moment",
+    "deleteConversation": "Supprimer la conversation",
+    "userProfile": "LMWebUI",
+    "userRole": "Assistant IA Local"
+  },
+  "welcome": {
+    "title": "LMWebUI",
+    "subtitle": "Comment puis-je vous aider aujourd'hui ?",
+    "suggested": "Suggéré",
+    "privacy": {
+      "title": "🔒 Vos données restent privées",
+      "description": "Toutes les conversations sont stockées localement sur votre appareil. Aucune donnée n'est envoyée à des serveurs externes.",
+      "details": {
+        "localStorage": "Stockage local uniquement - pas de synchronisation cloud",
+        "directConnection": "Connexion directe à Ollama - pas d'intermédiaires",
+        "noTelemetry": "Aucune télémétrie ou analyse collectée"
+      }
+    },
+    "disclaimer": "Les LLM peuvent faire des erreurs. Vérifiez les informations importantes."
+  },
+  "suggestedPrompts": {
+    "study": {
+      "title": "Aidez-moi à étudier le vocabulaire pour un examen d'entrée universitaire",
+      "description": "Créer des flashcards et des plans d'étude"
+    },
+    "kidsArt": {
+      "title": "Donnez-moi des idées pour que faire avec l'art de mes enfants",
+      "description": "Solutions créatives d'affichage et de stockage"
+    },
+    "procrastination": {
+      "title": "Surmontez la procrastination donnez-moi des conseils",
+      "description": "Stratégies et techniques pratiques"
+    },
+    "funFact": {
+      "title": "Dites-moi un fait amusant sur l'Empire romain",
+      "description": "Perspectives historiques intéressantes"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "appearance": "Apparence",
+    "theme": "Thème",
+    "light": "Clair",
+    "dark": "Sombre",
+    "fontSize": "Taille de Police",
+    "small": "Petit",
+    "medium": "Moyen",
+    "large": "Grand",
+    "modelSettings": "Paramètres du Modèle",
+    "defaultModel": "Modèle par Défaut",
+    "temperature": "Température",
+    "maxTokens": "Tokens Maximum",
+    "moreFocused": "Plus concentré",
+    "moreCreative": "Plus créatif",
+    "shorterResponses": "Réponses plus courtes",
+    "longerResponses": "Réponses plus longues",
+    "privacy": {
+      "title": "🔒 Confidentialité et Sécurité",
+      "description": "Tous les paramètres et conversations sont stockés localement sur votre appareil. Aucune donnée n'est transmise à des serveurs externes."
+    }
+  },
+  "errors": {
+    "ollamaNotConnected": "Ollama Non Connecté",
+    "ollamaNotConnectedDesc": "Veuillez vous assurer qu'Ollama fonctionne sur votre machine locale et réessayez.",
+    "noModelsAvailable": "Aucun Modèle Disponible",
+    "noModelsAvailableDesc": "Veuillez d'abord installer quelques modèles dans Ollama. Vous pouvez le faire en exécutant :",
+    "installModelCommand": "ollama pull llama2",
+    "refresh": "Actualiser",
+    "retryConnection": "Réessayer la Connexion"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}

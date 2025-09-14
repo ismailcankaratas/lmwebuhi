@@ -1,0 +1,107 @@
+{
+  "common": {
+    "newChat": "Yeni Sohbet",
+    "search": "Sohbetleri ara...",
+    "settings": "Ayarlar",
+    "send": "Mesaj gönder",
+    "typeMessage": "Mesajınızı yazın...",
+    "selectModel": "Sohbet etmeye başlamak için bir model seçin...",
+    "aiThinking": "AI düşünüyor...",
+    "retry": "Tekrar Dene",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "close": "Kapat",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı"
+  },
+  "header": {
+    "title": "LMWebUI",
+    "connected": "Bağlı",
+    "disconnected": "Bağlantı Kesildi",
+    "checking": "Kontrol ediliyor...",
+    "toggleSidebar": "Yan menüyü aç/kapat",
+    "toggleTheme": "{{theme}} temaya geç",
+    "openSettings": "Ayarları aç"
+  },
+  "sidebar": {
+    "conversations": "Sohbetler",
+    "noConversations": "Henüz sohbet yok",
+    "deleteConversation": "Sohbeti sil",
+    "userProfile": "LMWebUI",
+    "userRole": "Yerel AI Asistanı"
+  },
+  "welcome": {
+    "title": "LMWebUI",
+    "subtitle": "Bugün size nasıl yardımcı olabilirim?",
+    "suggested": "Önerilen",
+    "privacy": {
+      "title": "🔒 Verileriniz gizli kalır",
+      "description": "Tüm sohbetler cihazınızda yerel olarak saklanır. Hiçbir veri dış sunuculara gönderilmez.",
+      "details": {
+        "localStorage": "Sadece yerel depolama - bulut senkronizasyonu yok",
+        "directConnection": "Ollama'ya doğrudan bağlantı - aracı yok",
+        "noTelemetry": "Telemetri veya analitik toplanmaz"
+      }
+    },
+    "disclaimer": "LLM'ler hata yapabilir. Önemli bilgileri doğrulayın."
+  },
+  "suggestedPrompts": {
+    "study": {
+      "title": "Üniversite giriş sınavı için kelime çalışmama yardım et",
+      "description": "Flashcard ve çalışma planları oluştur"
+    },
+    "kidsArt": {
+      "title": "Çocuklarımın sanat eserleriyle ne yapacağım konusunda fikir ver",
+      "description": "Yaratıcı sergileme ve saklama çözümleri"
+    },
+    "procrastination": {
+      "title": "Erteleme alışkanlığımı yenmek için ipuçları ver",
+      "description": "Pratik stratejiler ve teknikler"
+    },
+    "funFact": {
+      "title": "Roma İmparatorluğu hakkında eğlenceli bir gerçek söyle",
+      "description": "İlginç tarihsel bilgiler"
+    }
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "appearance": "Görünüm",
+    "theme": "Tema",
+    "light": "Açık",
+    "dark": "Koyu",
+    "fontSize": "Yazı Boyutu",
+    "small": "Küçük",
+    "medium": "Orta",
+    "large": "Büyük",
+    "modelSettings": "Model Ayarları",
+    "defaultModel": "Varsayılan Model",
+    "temperature": "Sıcaklık",
+    "maxTokens": "Maksimum Token",
+    "moreFocused": "Daha odaklı",
+    "moreCreative": "Daha yaratıcı",
+    "shorterResponses": "Daha kısa yanıtlar",
+    "longerResponses": "Daha uzun yanıtlar",
+    "privacy": {
+      "title": "🔒 Gizlilik ve Güvenlik",
+      "description": "Tüm ayarlar ve sohbetler cihazınızda yerel olarak saklanır. Hiçbir veri dış sunuculara iletilmez."
+    }
+  },
+  "errors": {
+    "ollamaNotConnected": "Ollama Bağlı Değil",
+    "ollamaNotConnectedDesc": "Lütfen Ollama'nın yerel makinenizde çalıştığından emin olun ve tekrar deneyin.",
+    "noModelsAvailable": "Kullanılabilir Model Yok",
+    "noModelsAvailableDesc": "Lütfen önce Ollama'ya bazı modeller yükleyin. Bunu şu komutla yapabilirsiniz:",
+    "installModelCommand": "ollama pull llama2",
+    "refresh": "Yenile",
+    "retryConnection": "Bağlantıyı Tekrar Dene"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch"
+  }
+}
