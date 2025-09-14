@@ -31,6 +31,10 @@
 - **🌍 Multi-Language**: Multi-language interface (TR/EN/etc.) with community translation support
 - **⚡ Local & Online**: Supports both offline and online models (e.g., Ollama models)
 - **🎨 Customizable**: Fully customizable and extensible architecture
+- **🤖 Model Management**: Easy model switching with dropdown selector
+- **💬 Real-time Chat**: Live message streaming with typing indicators
+- **📱 Responsive Design**: Works perfectly on desktop and mobile devices
+- **🎯 User-Friendly**: Intuitive interface similar to ChatGPT
 
 ---
 
@@ -109,13 +113,8 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./docs/screenshots/main-interface.png" alt="Main Interface" width="800" />
-  <p><em>Clean, modern interface with dark theme</em></p>
-</div>
-
-<div align="center">
-  <img src="./docs/screenshots/mobile-view.png" alt="Mobile View" width="400" />
-  <p><em>Fully responsive mobile design</em></p>
+  <img src="./docs/screenshots/image.png" alt="LMWebUI Main Interface" width="800" />
+  <p><em>LMWebUI - Modern Language Model Web UI with dark theme and ChatGPT-like interface</em></p>
 </div>
 
 ## 🛠️ Tech Stack
