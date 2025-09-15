@@ -1,6 +1,11 @@
 # LMWebUI
 
 <div align="center">
+  <img src="./docs/screenshots/screenshot_01.png" alt="LMWebUI Main Interface" width="800" />
+  <p><em>LMWebUI - Modern Language Model Web UI with dark theme and ChatGPT-like interface</em></p>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React 18" />
   <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -109,13 +114,6 @@
 
 6. **Open your browser**
    Navigate to `http://localhost:3000`
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="./docs/screenshots/image.png" alt="LMWebUI Main Interface" width="800" />
-  <p><em>LMWebUI - Modern Language Model Web UI with dark theme and ChatGPT-like interface</em></p>
-</div>
 
 ## 🛠️ Tech Stack
 
