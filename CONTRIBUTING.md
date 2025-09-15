@@ -288,7 +288,7 @@ We follow [Semantic Versioning](https://semver.org/):
 
 - 💬 **Discord**: [Join our community](https://discord.gg/LMWebUI)
 - 📧 **Email**: contributors@LMWebUI.dev
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/LMWebUI/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ismailcankaratas/LMWebUI/issues)
 - 📖 **Docs**: [Documentation](https://docs.LMWebUI.dev)
 
 ## 🏆 Recognition

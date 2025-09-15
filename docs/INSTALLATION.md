@@ -64,7 +64,7 @@ ollama pull llama2:13b
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LMWebUI.git
+git clone https://github.com/ismailcankaratas/LMWebUI.git
 cd LMWebUI
 
 # Install dependencies
@@ -177,7 +177,7 @@ ollama pull mistral:7b
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LMWebUI.git
+git clone https://github.com/ismailcankaratas/LMWebUI.git
 cd LMWebUI
 
 # Verify you're in the right directory
@@ -223,7 +223,7 @@ pnpm dev
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/LMWebUI.git
+   git clone https://github.com/ismailcankaratas/LMWebUI.git
    cd LMWebUI
    ```
 
@@ -385,7 +385,7 @@ If you're still having issues:
    ```
 
 2. **Search existing issues:**
-   - [GitHub Issues](https://github.com/yourusername/LMWebUI/issues)
+   - [GitHub Issues](https://github.com/ismailcankaratas/LMWebUI/issues)
    - [Discord Community](https://discord.gg/LMWebUI)
 
 3. **Create a new issue:**

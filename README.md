@@ -78,7 +78,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/LMWebUI.git
+   git clone https://github.com/ismailcankaratas/LMWebUI.git
    cd LMWebUI
    ```
 
@@ -199,7 +199,7 @@ Add new languages in `src/i18n/locales/`:
 2. **Set environment variables**
 3. **Deploy automatically**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/LMWebUI)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ismailcankaratas/LMWebUI)
 
 ### Docker
 
@@ -267,9 +267,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 Have an idea? We'd love to hear it!
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/LMWebUI/issues/new?template=bug_report.md)
-- 💡 **Feature Requests**: [Request a feature](https://github.com/yourusername/LMWebUI/issues/new?template=feature_request.md)
-- 💬 **Discussions**: [Join the conversation](https://github.com/yourusername/LMWebUI/discussions)
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/ismailcankaratas/LMWebUI/issues/new?template=bug_report.md)
+- 💡 **Feature Requests**: [Request a feature](https://github.com/ismailcankaratas/LMWebUI/issues/new?template=feature_request.md)
+- 💬 **Discussions**: [Join the conversation](https://github.com/ismailcankaratas/LMWebUI/discussions)
 
 ## 📄 License
 
@@ -288,14 +288,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📧 **Email**: support@lmwebui.com
 - 💬 **Discord**: [Join our community](https://discord.gg/lmwebui)
 - 📖 **Documentation**: [docs.lmwebui.com](https://docs.lmwebui.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/LMWebUI/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ismailcankaratas/LMWebUI/issues)
 
 ---
 
 <div align="center">
   <p>Made with ❤️ by the LMWebUI team</p>
   <p>
-    <a href="https://github.com/yourusername/LMWebUI">⭐ Star us on GitHub</a> •
+    <a href="https://github.com/ismailcankaratas/LMWebUI">⭐ Star us on GitHub</a> •
     <a href="https://twitter.com/lmwebui">🐦 Follow us on Twitter</a> •
     <a href="https://discord.gg/lmwebui">💬 Join our Discord</a>
   </p>

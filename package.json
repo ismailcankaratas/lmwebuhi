@@ -40,16 +40,16 @@
   "author": {
     "name": "LMWebUI Team",
     "email": "team@lmwebui.com",
-    "url": "https://github.com/yourusername/LMWebUI"
+    "url": "https://github.com/ismailcankaratas/LMWebUI"
   },
   "license": "MIT",
   "homepage": "https://lmwebui.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/LMWebUI.git"
+    "url": "https://github.com/ismailcankaratas/LMWebUI.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/LMWebUI/issues"
+    "url": "https://github.com/ismailcankaratas/LMWebUI/issues"
   },
   "engines": {
     "node": ">=18.0.0",

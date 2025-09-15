@@ -147,5 +147,5 @@ We use [Semantic Versioning](https://semver.org/):
 
 ## Links
 
-- [Unreleased]: https://github.com/yourusername/LMWebUI/compare/v1.0.0...HEAD
-- [1.0.0]: https://github.com/yourusername/LMWebUI/releases/tag/v1.0.0
+- [Unreleased]: https://github.com/ismailcankaratas/LMWebUI/compare/v1.0.0...HEAD
+- [1.0.0]: https://github.com/ismailcankaratas/LMWebUI/releases/tag/v1.0.0
